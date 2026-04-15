@@ -20,19 +20,23 @@
   "textLinkList": [
     {
       "key": "telegram",
-      "val": "t.me/fraktura_games"
+      "val": "t.me/fraktura_games",
+      "icon": "https://raw.githubusercontent.com/ТВОЙ_ЮЗЕР/ТВОЙ_РЕПО/main/icons/server_broken.png"
     },
     {
       "key": "youtube",
-      "val": "www.youtube.com/@fractura_games"
+      "val": "www.youtube.com/@fractura_games",
+      "icon": "https://raw.githubusercontent.com/ТВОЙ_ЮЗЕР/ТВОЙ_РЕПО/main/icons/server_broken.png"
     },
     {
       "key": "itch.io",
-      "val": "https://fractura-games.itch.io/"
+      "val": "https://fractura-games.itch.io/",
+      "icon": "https://raw.githubusercontent.com/ТВОЙ_ЮЗЕР/ТВОЙ_РЕПО/main/icons/server_broken.png"
     },
     {
       "key": "boosty",
-      "val": "https://boosty.to/fractura_games"
+      "val": "https://boosty.to/fractura_games",
+      "icon": "https://raw.githubusercontent.com/ТВОЙ_ЮЗЕР/ТВОЙ_РЕПО/main/icons/server_broken.png"
     }
   ]
 }
