@@ -19,16 +19,20 @@
   ],
   "textLinkList": [
     {
-      "key": "Поддержка",
-      "val": "https://support.example.com"
+      "key": "telegram",
+      "val": "t.me/fraktura_games"
     },
     {
-      "key": "Наш сайт",
-      "val": "https://example.com"
+      "key": "youtube",
+      "val": "www.youtube.com/@fractura_games"
     },
     {
-      "key": "API входа",
-      "val": "https://api.example.com/auth"
+      "key": "itch.io",
+      "val": "https://fractura-games.itch.io/"
+    },
+    {
+      "key": "boosty",
+      "val": "https://boosty.to/fractura_games"
     }
   ]
 }
