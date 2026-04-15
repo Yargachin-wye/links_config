@@ -19,24 +19,24 @@
   ],
   "textLinkList": [
     {
-      "key": "telegram",
-      "val": "t.me/fraktura_games",
-      "icon": "https://raw.githubusercontent.com/ТВОЙ_ЮЗЕР/ТВОЙ_РЕПО/main/icons/server_broken.png"
+      "key": "boosty",
+      "val": "https://boosty.to/fractura_games",
+      "icon": "https://raw.githubusercontent.com/ТВОЙ_ЮЗЕР/ТВОЙ_РЕПО/main/icons/boosty.png"
     },
     {
       "key": "youtube",
       "val": "www.youtube.com/@fractura_games",
-      "icon": "https://raw.githubusercontent.com/ТВОЙ_ЮЗЕР/ТВОЙ_РЕПО/main/icons/server_broken.png"
+      "icon": "https://raw.githubusercontent.com/yargachin-wye/links_config/main/icons/youtube.png"
     },
     {
       "key": "itch.io",
       "val": "https://fractura-games.itch.io/",
-      "icon": "https://raw.githubusercontent.com/ТВОЙ_ЮЗЕР/ТВОЙ_РЕПО/main/icons/server_broken.png"
+      "icon": "https://raw.githubusercontent.com/yargachin-wye/links_config/main/icons/itchio.png"
     },
     {
-      "key": "boosty",
-      "val": "https://boosty.to/fractura_games",
-      "icon": "https://raw.githubusercontent.com/ТВОЙ_ЮЗЕР/ТВОЙ_РЕПО/main/icons/server_broken.png"
+      "key": "telegram",
+      "val": "t.me/fraktura_games",
+      "icon": "https://raw.githubusercontent.com/yargachin-wye/links_config/main/icons/tg.png"
     }
   ]
 }
