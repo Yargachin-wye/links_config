@@ -1,21 +1,5 @@
 {
   "configList": [
-    {
-      "key": "patreonClientId",
-      "val": "wWC_XkgicbQu9ym3EIwGuPRFX4_lf7DiWsQ_4RDSc-tbZeNdBASxN7b7L5cRZKwI"
-    },
-    {
-      "key": "patreonListenerLocalhost",
-      "val": "http://localhost:12345/"
-    },
-    {
-      "key": "patreonRedirectUri",
-      "val": "https://yargachin-wye.github.io/Patreon-proxy-redirect/"
-    },
-    {
-      "key": "patreonScope",
-      "val": "identity"
-    }
   ],
   "textLinkList": [
     {
